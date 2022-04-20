@@ -1,4 +1,4 @@
-# HTML-y-CSS 🦊
+# HTML-and-CSS 🦊
 HTML and CSS projects and practices
 
 >A series of practices where HTML and CSS is executed with different projects and tools where I use sets of styles and tags based on the platzi course .
