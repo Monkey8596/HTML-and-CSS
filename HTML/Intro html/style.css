@@ -1,0 +1,31 @@
+
+#fondo{
+    background-color: rgba(33, 26, 136, 0.918);
+}
+
+#uno{
+    color: rgb(145, 145, 145);
+}
+#titulo{
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    text-align: center;
+}
+
+#Frutas{
+    color: coral;
+    font-size: 20px;
+}
+
+#Carnes{
+    color: rgb(240, 215, 73);
+    font-size: 20px;
+}
+
+#Verduras{
+    color: rgb(6, 155, 68);
+    font-size: 20px;
+}
+#Mp{
+    color: cornsilk;
+}
